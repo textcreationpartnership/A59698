@@ -1,0 +1,4136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the libraries of Mr. Sheppard, late of London and of another gentleman deceased : which will be exposed to sale by auction at Mr. Thomas Wards, upholster, at the Boars-Head in Cornhill on Thursday the 16th of this instant December 1686.</title>
+            <author>Sheppard, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59698</idno>
+            <idno type="STC">Wing S3159</idno>
+            <idno type="STC">ESTC R26237</idno>
+            <idno type="EEBO-CITATION">09398697</idno>
+            <idno type="OCLC">ocm 09398697</idno>
+            <idno type="VID">42967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1315:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the libraries of Mr. Sheppard, late of London and of another gentleman deceased : which will be exposed to sale by auction at Mr. Thomas Wards, upholster, at the Boars-Head in Cornhill on Thursday the 16th of this instant December 1686.</title>
+                  <author>Sheppard, Mr.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheppard, --  Mr --  Library.</term>
+               <term>Catalogs, Booksellers' --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42967:1" rendition="simple:additions"/>
+            <p> A CATALOGUE OF THE LIBRARIES OF Mr. <hi>SHEPPARD</hi> late of <hi>London</hi> And of another GENTLEMAN Deceaſed.</p>
+            <p>Which will be Expoſed to SALE by Auction, at Mr. <hi>Thomas Wards,</hi> Upholſter; at the <hi>Boars-Head</hi> in <hi>Cornhill,</hi> on Thurſday the 16th, of this inſtant <hi>December,</hi> 1686.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Catalogues are given at Mr. <hi>William Millers</hi> at the <hi>Acorn</hi> in St. <hi>Pauls</hi> Church-yard, Mr. <hi>Wilkinſons</hi> at the <hi>Black<g ref="char:EOLhyphen"/>boy</hi> in <hi>Fleet-street</hi> Bookſellers, and at the abovementi<g ref="char:EOLhyphen"/>oned place of Sale, 1686.</p>
+            <pb facs="tcp:42967:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42967:2"/>
+            <head>TO THE READER.</head>
+            <p>TO commend this Catalogue would be to reflect on the knowledge of the unprejudiced peruſer, and to ac<g ref="char:EOLhyphen"/>count for this way of ſale, and the advantages that have enſued to learning in General, after ſo many experiments made by the Approbation of the learned and bookiſh Gentle<g ref="char:EOLhyphen"/>men of this City, is to leſſen the veneration I have for their Judgments. I am ſufficiently ſenſible that the trueſt repre<g ref="char:EOLhyphen"/>ſentations of the books, both as to their goodneſs and ſcarcity, hath been cenſured by ſome, and interpreted by others, as formal commendations; I therefore leave the reſpective <hi>Buyers</hi> to judge as they pleaſe, and to determine as they think fit, in<g ref="char:EOLhyphen"/>viting them to a view and examination of the books, the Fourteenth and Fifteenth days of this instant, from the hours of Nine to Twelve in the morning, and from Two to Six in the Evening.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42967:3"/>
+            <head>This SALE will begin on Thurſday the 16th. day of <hi>December,</hi> 1686. At Mr. <hi>Thomas Wards,</hi> Upholſter; at the <hi>Boars-Head</hi> in <hi>Cornhill,</hi> from the hours of 9 in the Morning to 12, and from 2 to 6 in the Evening, till all the Books are Sold.</head>
+            <div type="auction_rules">
+               <head>Conditions for SALE.</head>
+               <p n="1">I. THat he who bids moſt is the Buyer; and if any difference ariſeth, the ſame Books to be Expoſed again to Sale.</p>
+               <p n="2">II. That the Books in this Catalogue (not otherwiſe ex<g ref="char:EOLhyphen"/>preſſed) are for ought we know perfect; but if any of them appear to be otherwiſe before they be taken away, the Buyer ſhall have his choice of leaving or taking them.</p>
+               <p n="3">III. That the Money for the Book or Books ſo bought, be paid by the Buyer within one Week after the Sale is ended, at the place of Sale; where upon pay<g ref="char:EOLhyphen"/>ment thereof the Book or Books ſo bought ſhall be ready to be delivered within the Week aforeſaid.</p>
+               <p n="4">IV. That every Perſon or Perſons not known to the Undertaker, or ſome of the Company, do pay in part for the Book or Books bought by him ſuch a pro<g ref="char:EOLhyphen"/>portion of Money as ſhall be demanded by the Expoſer.</p>
+            </div>
+            <div type="type_of_book">
+               <pb facs="tcp:42967:3"/>
+               <head>
+                  <hi>Folio</hi>'s.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>No.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>VV. Perkins, 2 Vol. firſt and third</cell>
+                        <cell>
+                           <hi>London</hi> 1625</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>Aſſemblies Annotations, 2 Vol.</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>Dutch Annotations, 2 Vol.</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>Dr. Harris's Works</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>Dr. Holmes Works, Chriſt offering himſelf to Sinners</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>Solomons Temple pourtrayed to Scripture light</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>Edw. Leigh, a Syſtem of the Body of Divinity</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>H: Ainſworth Annotations, 1 Vol.</cell>
+                        <cell>1639</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>Dr. Taylors Works</cell>
+                        <cell>1617</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>Fr. Roberts Myſtery and Marrow of the Bible, 2 Vol.</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>Gods Revenge againſt Murther</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>Rich. Bernards Concordance</cell>
+                        <cell>1644</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>The Poor mans Library, by G. A. Biſhop of Exeter</cell>
+                        <cell>1560</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>Dr. R. Taylors Works</cell>
+                        <cell>1617</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>Dr. Joſ. Halls Works</cell>
+                        <cell>1617</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>Edw. Elton Expoſ. on the Coloſſians</cell>
+                        <cell>1620</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>Z. Urſinas ſumme of Chriſtian Religion</cell>
+                        <cell>1645</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>Dr Downames Treatiſe of Juſtification</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>G. Hutcheſons Expoſ. on the XII. ſmall Prophets</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>Biſhop Andrews Expoſ. on the X. Commandments</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>Dr. Homes Reſurrection revealed</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>Arthur Hilderſom on the 4th. of John</cell>
+                        <cell>1629</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>S. Cradocks Apoſtolical Hiſtory</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>—His harmony of the four Evangeliſt</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>Dr. Rogers, Naaman the Syria his diſeaſe and cure</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>Dr. Owen on the Hebrews, firſt Vol.</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>—on the Operations of the Holy Spirit</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>Fr. Rouſe his Works</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>Will. Atterſol Comment. upon Philemon</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>Wolfegangus Muſculus, his Comment. of Chriſt. Religion</cell>
+                        <cell>1563</cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell>Rich. Bernard Concordance</cell>
+                        <cell>1644</cell>
+                     </row>
+                     <row>
+                        <cell>32</cell>
+                        <cell>Dr. R. Harris Works</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>33</cell>
+                        <cell>Dr. Homes Works</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>Sam. Newmans large Concordance</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>35</cell>
+                        <cell>A Treatiſe of Specters, by T. B.</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>Platerus Golden practice of Phyſick</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>37</cell>
+                        <cell>Lavines Lemnius ſecret Miracles of Nature</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>38</cell>
+                        <cell>The Univerſal Body of Phyſick in 5 books written in Latin by Laz. Riverius—Engliſh by Will. Carr</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>39</cell>
+                        <cell>Recreations with the Muſes, by the Earl of <hi>Sterline</hi>
+                        </cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>40</cell>
+                        <cell>Sir R. Baker Chronicle</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <row>
+                        <cell>41</cell>
+                        <cell>Burtons Melancholy</cell>
+                        <cell>1638</cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>Robert Wards Animadverſions of War</cell>
+                        <cell>1639</cell>
+                     </row>
+                     <row>
+                        <cell>43</cell>
+                        <cell>Common Prayer Book</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>44</cell>
+                        <cell>Sir Walter Rawleigh</cell>
+                        <cell>1621</cell>
+                     </row>
+                     <row>
+                        <cell>45</cell>
+                        <cell>Bp. Saunderſons Sermons, ad Aulam, Magiſt. Clerg. Populam</cell>
+                        <cell>1681</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="type_of_book">
+               <pb n="2" facs="tcp:42967:4"/>
+               <head>
+                  <hi>Quarto</hi>'s.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>PAtrick Forbes on the Revelations</cell>
+                        <cell>1614</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>John Brethenſha Hiſtory of Divine Verities</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>John Forbes doctrine of Juſtification</cell>
+                        <cell>1616</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>T. Goodwin Sermon</cell>
+                        <cell>1646</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>Nath. Culverwell light of Nature</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>Will. Hilton the Sermon Chriſt made to <hi>Emaus</hi>
+                        </cell>
+                        <cell>1578</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>T. Goodwin Child of light walking in darkneſs</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>John White way to the true Church</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>8</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>Martin Luther on the Galathians</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>4</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>R. Baxters Infant Church memberſhip</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>3</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>7 Sermons of John Stoughton</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>Tho. Adams a diſcourſe of the Spirit prerogatives and happineſs of the Church</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>8</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>21 ſeveral books of Will. Bridges collected into 1 Vol.</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>Morning Exerciſe at Southwark</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>Morning Exerciſe at Criplegate</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>Tho. Brightman on the Revelations</cell>
+                        <cell>1644</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>R. Baxter Saints Reſt</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>Dr. John Preſton breaſt-plate of Faith and Love</cell>
+                        <cell>1630</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>Burroughs Goſpel Worſhip</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>Will. Gernalls Chriſtian compleat Armour, 2 Vol.</cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>Will. Erbery Teſti. for the Saints in ſucceeding ages, to it is added thehon. Heret.</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>Tho. Brooks London Lamentations</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>—Cabinet of choice Jewels</cell>
+                        <cell>1669</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>—Beauty of Holineſs</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>Jer. Burroughes Saints Treaſury</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>—His 4 Treatiſes on the eleventh of Matthew</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>—Moſes's choice</cell>
+                        <cell>1641</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>—Expoſition on Hoſea firſt part</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>Sam. Cradock's diſcourſe of things in order to Salvation</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>Dr. Owens Juſtification by Faith</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell>Greenhill upon Ezekiel compleat, 3 Vol.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>32</cell>
+                        <cell>Caryl on Job 11 firſt parts 6 Vol.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>33</cell>
+                        <cell>Rob. Tatnals Antidote againſt the fear of Death</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>Clement Cotton Concordance</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>35</cell>
+                        <cell>Phil Barroughs method of Phyſick</cell>
+                        <cell>1624</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>Markhams maſter-piece of diſeaſes in Horſes and cure</cell>
+                        <cell>1631</cell>
+                     </row>
+                     <row>
+                        <cell>37</cell>
+                        <cell>Man of ſin</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>38</cell>
+                        <cell>An Abridgment of Foxes Acts and Monuments, Tim. Bright</cell>
+                        <cell>1589</cell>
+                     </row>
+                     <row>
+                        <cell>39</cell>
+                        <cell>An Apology for the Oath of Allegiance</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>9</cell>
+                     </row>
+                     <row>
+                        <cell>40</cell>
+                        <cell>Prideaux (John) introduction for reading all ſorts of Hiſtories</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>41</cell>
+                        <cell>Antiquities concerning the Engliſh Nation</cell>
+                        <cell>1634</cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>A book of Names of all Pariſhes, Towns, Villages and Hamlets in <hi>Eng.</hi> and <hi>Wales</hi>
+                        </cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>43</cell>
+                        <cell>A Dictionary Latin and Engliſh</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>44</cell>
+                        <cell>A Dictionary Latin and Greek</cell>
+                        <cell>1581</cell>
+                     </row>
+                     <row>
+                        <cell>45</cell>
+                        <cell>Rutherford Spiritual Antichriſt</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>46</cell>
+                        <cell>Greenhill upon Ezekiel firſt part</cell>
+                        <cell>1645</cell>
+                     </row>
+                     <row>
+                        <cell>47</cell>
+                        <cell>Brooks unſearchable riches of Chriſt</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>48</cell>
+                        <cell>John B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lls Treatiſe of Faith</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>49</cell>
+                        <cell>T. Goodwin his Child of light, return of Prayer, a Chriſtians growth, Chriſt the univerſal Peace-maker, 1 vol.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="type_of_book">
+               <pb n="3" facs="tcp:42967:4"/>
+               <head>
+                  <hi>Octavo</hi>'s and <hi>Twelves.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>JOhn Everard the holieſt of all unvailed</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>Theoph. Gale, diſcourſe of Chriſt coming</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>John Tillotſon's rule of Faith</cell>
+                        <cell>1666</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>Withers Fides-Anglicana</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>Reyners Precepts or Rule of the New Creature</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>T. W. Cloud of Witneſſes</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>R. Baxter ſpiritual Peace and Comfort</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>Brooks on Aſſurance</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>Chriſtian conference. and Edm. Staunton's Life and Death</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>Jer. Dyke on the Sacrament</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>A vindication of Publick preaching by ſome men not ordained</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>I. S. ſure footing in Chriſtianity</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>W. Greenhil, Soundneſs of Heart</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>S. Rolls Juſtification juſtified</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>Dr. Ingelo Sermon at <hi>Pauls</hi> Church <hi>London</hi>
+                        </cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>Vennings Remains</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>Withers ſpeculum Speculativum</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>Janua Linguarum Trilinguis</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>Charnock of Divine Providence</cell>
+                        <cell>1680</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>Dr. Owen, Nature of Apoſtaſie</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>Osburns advice to his Son</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>Cobbet on Prayer</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>Hanmer, Exercitations upon Confirmation</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>Dr. Wilkins concerning the gift of Prayer</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>Brooks mute Chriſtian</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>Davant comfort and councel for dejected ſouls</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>Cuthbert Sydenham's greatneſs of the myſtery of Godlineſs</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>Dr. Owen Original of the Sabbath</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>Tho. Shephards ſincere Convert</cell>
+                        <cell>1646</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>Tho. Goodwins return of prayer</cell>
+                        <cell>1636</cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell>S. S. Voice of one crying in the Wilderneſs</cell>
+                        <cell>1666</cell>
+                     </row>
+                     <row>
+                        <cell>32</cell>
+                        <cell>Simpſons perfection of Juſtification maintained againſt Phariſee</cell>
+                        <cell>1648</cell>
+                     </row>
+                     <row>
+                        <cell>33</cell>
+                        <cell>R. Venning Milk and Honey</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>N. Byfield, a collection of truths to believe to Salvation</cell>
+                        <cell>1618</cell>
+                     </row>
+                     <row>
+                        <cell>35</cell>
+                        <cell>—Goſpel Glory</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>Brooks Cloſet Prayer</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>37</cell>
+                        <cell>—String of Pearls</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>38</cell>
+                        <cell>—m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>te Chriſtian</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>39</cell>
+                        <cell>—heavenly Cordial</cell>
+                        <cell>1666</cell>
+                     </row>
+                     <row>
+                        <cell>40</cell>
+                        <cell>Inſtruction in the Worſhip of God</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <row>
+                        <cell>41</cell>
+                        <cell>R. Bre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iter Saints help</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>J. Flavei, the great work of a Chriſtian</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>43</cell>
+                        <cell>R. B<gap reason="illegible" resp="#APEX" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>er univerſal Concord</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>44</cell>
+                        <cell>H. A. C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mmunion of Saints</cell>
+                        <cell>1628</cell>
+                     </row>
+                     <row>
+                        <cell>45</cell>
+                        <cell>N. Led<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>yer young mans call and duty</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>46</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hephar<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#APEX" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>nd Believer</cell>
+                        <cell>1649</cell>
+                     </row>
+                     <row>
+                        <cell>47</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#APEX" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>overt from the ſtorm</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>48</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> R. <gap reason="illegible" resp="#APEX" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>bed thoughts, firſt part</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <pb n="4" facs="tcp:42967:5"/>
+                     <row>
+                        <cell>49</cell>
+                        <cell>N. Byfield Marrow of the Oracles of God</cell>
+                        <cell>1620</cell>
+                     </row>
+                     <row>
+                        <cell>50</cell>
+                        <cell>—Nature, and Power of indwelling ſin</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>51</cell>
+                        <cell>Coopers Government of the thoughts</cell>
+                        <cell>1619</cell>
+                     </row>
+                     <row>
+                        <cell>52</cell>
+                        <cell>Practice of Piety</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>53</cell>
+                        <cell>John Sprint uſe of the Chriſtian Sabbath</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>54</cell>
+                        <cell>Herb. Palmers memorials of godlineſs and Chriſtianity</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>55</cell>
+                        <cell>Patience and its perfect work</cell>
+                        <cell>1666</cell>
+                     </row>
+                     <row>
+                        <cell>56</cell>
+                        <cell>Samuel Smith great Aſſize</cell>
+                        <cell>1644</cell>
+                     </row>
+                     <row>
+                        <cell>57</cell>
+                        <cell>R. Baxter Sermon of Judgmene</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>58</cell>
+                        <cell>Alex. Roſs Chriſtian Divinity</cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>59</cell>
+                        <cell>Hookers priviledge of Saints on Earth</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>60</cell>
+                        <cell>Wilkins beauty of Providence</cell>
+                        <cell>1649</cell>
+                     </row>
+                     <row>
+                        <cell>61</cell>
+                        <cell>Byfields Oracles of God</cell>
+                        <cell>1620</cell>
+                     </row>
+                     <row>
+                        <cell>62</cell>
+                        <cell>Shephards ſincere convert</cell>
+                        <cell>1646</cell>
+                     </row>
+                     <row>
+                        <cell>63</cell>
+                        <cell>Fulfilling of the Scripture</cell>
+                        <cell>1609</cell>
+                     </row>
+                     <row>
+                        <cell>64</cell>
+                        <cell>Davids bleſſed man</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>65</cell>
+                        <cell>Living truths in dying times</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>66</cell>
+                        <cell>Brooks heavenly Cordial</cell>
+                        <cell>1666</cell>
+                     </row>
+                     <row>
+                        <cell>67</cell>
+                        <cell>Boſcobel, or the Hiſtory of K. <hi>C.</hi> preſervation at Worceſter</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>68</cell>
+                        <cell>Hiſtory of the Heathen demi-gods</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>69</cell>
+                        <cell>Latin Dictionary Fr. Selon l'</cell>
+                        <cell>1602</cell>
+                     </row>
+                     <row>
+                        <cell>70</cell>
+                        <cell>VV. VValker's Engliſh particles</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>71</cell>
+                        <cell>Scarroms Novels</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>72</cell>
+                        <cell>Osburn's advice to a Son</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>73</cell>
+                        <cell>D. Bauderon expert Phyſician</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>74</cell>
+                        <cell>Apology for the Oath of Allegiance and Supremacy</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>75</cell>
+                        <cell>The exact Conſtable</cell>
+                        <cell>1663</cell>
+                     </row>
+                     <row>
+                        <cell>76</cell>
+                        <cell>Rehearſal Tranſproſed, firſt and ſecond part, 2 Vol. Marvel</cell>
+                        <cell>1672, 1673</cell>
+                     </row>
+                     <row>
+                        <cell>77</cell>
+                        <cell>A ſober anſwer to the Friendly Debate</cell>
+                        <cell>1663</cell>
+                     </row>
+                     <row>
+                        <cell>78</cell>
+                        <cell>H. Jeſſey Engliſh Greek Lexicon on the New Teſtament</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>79</cell>
+                        <cell>I S. news of a new world</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>80</cell>
+                        <cell>I. Sprig his approaching glory</cell>
+                        <cell>1648</cell>
+                     </row>
+                     <row>
+                        <cell>81</cell>
+                        <cell>Wit revived or a new way of divertiſement</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>82</cell>
+                        <cell>Matchevils diſcourſes with marg. notes taxing his errors</cell>
+                        <cell>1686</cell>
+                     </row>
+                     <row>
+                        <cell>83</cell>
+                        <cell>Common Prayer Book and ſinging Pſalms</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="type_of_book">
+               <head>Bibles.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>A Bible Folio</cell>
+                        <cell>
+                           <hi>Oxon</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>A Bible Quarto</cell>
+                        <cell>
+                           <hi>Oxon</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>A Bible Octavo</cell>
+                        <cell>
+                           <hi>Oxon</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>A Bible Octavo gilt</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>A Bible Twelves</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>A bible French large Folio</cell>
+                        <cell>
+                           <hi>Geneva</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>A bible Dutch large Folio</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>A bible John Bill</cell>
+                        <cell>1623</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>A bible Robert Barker</cell>
+                        <cell>1630</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>A bible interleaved with white Paper in octavo, 2 Vol.</cell>
+                        <cell>1662</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="type_of_book">
+               <pb n="5" facs="tcp:42967:5"/>
+               <head>Folio's.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>THE Annals of King <hi>James</hi> and King <hi>Charles</hi> the I.</cell>
+                        <cell>
+                           <hi>London</hi> 1681</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>St. Amours Journal of the 5 famous propoſitions at <hi>Rome</hi>
+                        </cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>The Annales of Hen. 8. Edw. 6. and Q. Mary by Biſhop Goodwin</cell>
+                        <cell>1630</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>Dr. Alleſtries Sermons before the King, and on other publick occaſions</cell>
+                        <cell>1669</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>Mr. Iſaac Ambroſe's firſt, middle and laſt things</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>Biſhops Brownriggs Sermons both parts compleat</cell>
+                        <cell>1685</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>Anglia Rediviva or Englands recovery by Sprig</cell>
+                        <cell>1647</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>Biſhop Taylors life and death of the bleſſed Jeſus, with Cuts</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>Burtons Melancholy, or Democritus Junior</cell>
+                        <cell>1628</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>Card. Bentivoglio's Hiſtory of the Wars of Flanders</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>Browns accurate accomptant, or London Merchant</cell>
+                        <cell>1669</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>The illuſtrious Baſſa, by Monſieur de Scudery</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>Barclays ſhip of Fools, with other works in Poetry</cell>
+                        <cell>1570</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>The ſiege of Breda, with figures</cell>
+                        <cell>1627</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>The Lord Bacons Natural Hiſtory</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>Bramholls Treatiſe of Specters, or Hiſtory of Apparitions</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>A. Bp. Cranmer againſt Gardiner, on the Sacrament</cell>
+                        <cell>1580</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>Mr. Cambdens Hiſtory of Queen Elizabeth</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>Clarks Examples 2 Vol. gilt back</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>Chillingworths Religion of Proteſtants a ſafe way</cell>
+                        <cell>1638</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>Crackonthorps Vigilus Dormitans, of the 5th. gen. Council ar <hi>Conſtantinople</hi>
+                        </cell>
+                        <cell>1634</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>Cauſins Holy Court</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>Sir W. Churchills Remarks on the lives of all the Kings of this Iſle</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>Dr. Charletons Fabrick of ſciecce upon the Hypotheſis of Atoms, gilt back</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>Culpeppers Engliſh Phyſitician</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>Calvins inſtituions</cell>
+                        <cell>1639</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>Sir Dudly Diggs his compleat Ambaſſador, gilt back</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>Drummonds Hiſtory of Scotland</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>The life of William Duke of Newcaſtle</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>The Reign of Edward the 2d. with the riſe and fall of his 2 favourites</cell>
+                        <cell>1680</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>Habingtons Hiſtory of Edw. 4th. King of <hi>England</hi>
+                        </cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell>Favines Theater of Honour and Knighthood, gilt back</cell>
+                        <cell>1623</cell>
+                     </row>
+                     <row>
+                        <cell>32</cell>
+                        <cell>Fonſecas Devout Contemplations</cell>
+                        <cell>1629</cell>
+                     </row>
+                     <row>
+                        <cell>33</cell>
+                        <cell>Fullers Holy War and Holy State, gilt back</cell>
+                        <cell>
+                           <hi>Cambridge</hi> 1640</cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>—Injured innocency vindicated, gilt back</cell>
+                        <cell>
+                           <hi>London</hi> 1659</cell>
+                     </row>
+                     <row>
+                        <cell>35</cell>
+                        <cell>Mr. Fox's book of Martyrs, 3 vol.</cell>
+                        <cell>1641</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>Foulis Hiſtory of the pretended Saints</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>37</cell>
+                        <cell>Geſners Hiſtory of fourfooted Beaſts, by Topſel</cell>
+                        <cell>1607</cell>
+                     </row>
+                     <row>
+                        <cell>38</cell>
+                        <cell>Dr. Grews Cat. and deſcript. of the Nat. and Art. Rarities of the Royal Society</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>39</cell>
+                        <cell>Grimſtones general hiſtory of the Netherlands, gilt back</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>40</cell>
+                        <cell>Guevaras Dial of Princes</cell>
+                        <cell>1619</cell>
+                     </row>
+                     <row>
+                        <cell>41</cell>
+                        <cell>Sir Geo. Wheelers voyage into Greece with cuts</cell>
+                        <cell>1682</cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>Mr. Th Hobbs his tranſlation of Thucidides</cell>
+                        <cell>1634</cell>
+                     </row>
+                     <row>
+                        <cell>43</cell>
+                        <cell>Hexams principles of the Art Military with Figures</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>44</cell>
+                        <cell>Dr. Peter Heylins Theologia veturum, or the Apoſtles Creed, gilt back</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>45</cell>
+                        <cell>—Cyprianus Anglicanus, or the life and death of A. B. Laud</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>46</cell>
+                        <cell>—Hiſtory of the Reformation of the Church of <hi>England</hi>
+                        </cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>47</cell>
+                        <cell>The Roman Hiſtory by Ammianus Marcellinus</cell>
+                        <cell>1609</cell>
+                     </row>
+                     <row>
+                        <cell>48</cell>
+                        <cell>The Hiſtory of Zenophons Aſcent tranſ. by <hi>Bingham</hi>
+                        </cell>
+                        <cell>1622</cell>
+                     </row>
+                     <pb n="6" facs="tcp:42967:6"/>
+                     <row>
+                        <cell>49</cell>
+                        <cell>The Lord Herberts Life and Reign of Henry the 8th.</cell>
+                        <cell>1683</cell>
+                     </row>
+                     <row>
+                        <cell>50</cell>
+                        <cell>The Hiſtory of Guicciardine</cell>
+                        <cell>1579</cell>
+                     </row>
+                     <row>
+                        <cell>51</cell>
+                        <cell>The Hiſtory of the Iron age by Parrival</cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>52</cell>
+                        <cell>The Hiſtory of Geo. Caſtriot ſirnamed Scanderbeg</cell>
+                        <cell>1596</cell>
+                     </row>
+                     <row>
+                        <cell>53</cell>
+                        <cell>The famous and memorable hiſt. of Joſephus, by Dr. Lodge</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>54</cell>
+                        <cell>Baptiſta Nani's hiſt. of Europe, more eſpecially of the Repub. of Venice</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>55</cell>
+                        <cell>Sir H. Wottons Sate of Chriſtendom</cell>
+                        <cell>1679</cell>
+                     </row>
+                     <row>
+                        <cell>56</cell>
+                        <cell>Hookers Laws of Eccleſiaſtical polity, with his diſe. of Juſtification and Sermons</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>57</cell>
+                        <cell>The Hiſt. of the Adminiſtration of Cardin. Richlieu, gilt back</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>58</cell>
+                        <cell>Hakewels Apology for the power and providence of God</cell>
+                        <cell>1607</cell>
+                     </row>
+                     <row>
+                        <cell>59</cell>
+                        <cell>Hollingſheds hiſt. and Chronicles of Engl. Scotl. and Ireland, 2 Vol.</cell>
+                        <cell>1577</cell>
+                     </row>
+                     <row>
+                        <cell>60</cell>
+                        <cell>Hammonds L'Eſtrange hiſt. of the Reign of King Charles</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>61</cell>
+                        <cell>Biſhop Halls firſt volume</cell>
+                        <cell>1621</cell>
+                     </row>
+                     <row>
+                        <cell>62</cell>
+                        <cell>Howels life of Lewis the 13th. and of Card. Richlieu</cell>
+                        <cell>1646</cell>
+                     </row>
+                     <row>
+                        <cell>63</cell>
+                        <cell>The compleat hiſt. of the trial and condemnation of A. B Laud</cell>
+                        <cell>1646</cell>
+                     </row>
+                     <row>
+                        <cell>64</cell>
+                        <cell>Strada's hiſt. of the Low Conutries Wars, with cuts</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>65</cell>
+                        <cell>The hiſt. of the Wars in Ireland by Stafford, gilt</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>66</cell>
+                        <cell>Johnſons hiſt. of the wonderful things of Nature</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>67</cell>
+                        <cell>Yorks union of Honour only wants the title page</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>68</cell>
+                        <cell>Hails Chronicle by Grafton the 2d. Edition</cell>
+                        <cell>1550</cell>
+                     </row>
+                     <row>
+                        <cell>69</cell>
+                        <cell>Spotswoods hiſt. of the Church of Scotland</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>70</cell>
+                        <cell>Mr. Gatakers Sermons interleaved</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>71</cell>
+                        <cell>Dr. Ingelo's Bentivolio &amp; U<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ania</cell>
+                        <cell>1682</cell>
+                     </row>
+                     <row>
+                        <cell>72</cell>
+                        <cell>Inego Jones Stonchage Reſtored</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>73</cell>
+                        <cell>Luthers divine diſe, at his Table, gilt back</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>74</cell>
+                        <cell>Jo. Lidgates Hiſt. of the Wars between the Grecians and Trojans in Engliſh verſe</cell>
+                        <cell>1555</cell>
+                     </row>
+                     <row>
+                        <cell>75</cell>
+                        <cell>Livies Roman hiſt. tranſl. by Dr. Holland</cell>
+                        <cell>1600</cell>
+                     </row>
+                     <row>
+                        <cell>76</cell>
+                        <cell>Lightſoots Harmony of the New Teſtament</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>77</cell>
+                        <cell>Lloyds Memoirs of the lives, actions, ſufferings and Death, &amp;c.</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>78</cell>
+                        <cell>Mr. Hilderſhams lectures on Pſalm 51</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>79</cell>
+                        <cell>Dr. Heskets Parliament of Chriſt</cell>
+                        <cell>1566</cell>
+                     </row>
+                     <row>
+                        <cell>80</cell>
+                        <cell>Malvezzis diſcourſes on Cornelius Tacitus</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>81</cell>
+                        <cell>Malines lex Mercatoria, or the Ancient Law Merchant</cell>
+                        <cell>1622</cell>
+                     </row>
+                     <row>
+                        <cell>82</cell>
+                        <cell>The Memoris of Sir James Melvil</cell>
+                        <cell>1683</cell>
+                     </row>
+                     <row>
+                        <cell>83</cell>
+                        <cell>The Lord Michael de Montaignes L'ſſays, or diſcourſe moral, political and military</cell>
+                        <cell>1603</cell>
+                     </row>
+                     <row>
+                        <cell>84</cell>
+                        <cell>Manuſels Catalogue of Engliſh books, 2 parts compleat</cell>
+                        <cell>1595</cell>
+                     </row>
+                     <row>
+                        <cell>85</cell>
+                        <cell>Sir Th. Mores Works</cell>
+                        <cell>1557</cell>
+                     </row>
+                     <row>
+                        <cell>86</cell>
+                        <cell>Martyns Chron. and hiſt. of the lives of the Kings of <hi>Engl.</hi> with their Eſſigies, gilt</cell>
+                        <cell>1638</cell>
+                     </row>
+                     <row>
+                        <cell>87</cell>
+                        <cell>Dr. Manton on Pſalm 119</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>88</cell>
+                        <cell>Parthaniſſa that famed Romance, by the Earl of Orery, gilt back</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>89</cell>
+                        <cell>Sir Peter Leiceſters hiſtorical collections in 2 books, gilt back</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>93</cell>
+                        <cell>The Travel of Pet. Della Valle a noble Roman into the Eaſt-Indies</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>91</cell>
+                        <cell>Pliny's natural hiſtory, gilt back</cell>
+                        <cell>1601</cell>
+                     </row>
+                     <row>
+                        <cell>92</cell>
+                        <cell>Pagits Chriſtianography</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>93</cell>
+                        <cell>Ruſhworths hiſtorical collections, 1 ſt. part</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>94</cell>
+                        <cell>Richardſons ſtate of Europe</cell>
+                        <cell>
+                           <hi>Oxford</hi> 1627</cell>
+                     </row>
+                     <row>
+                        <cell>95</cell>
+                        <cell>Reinolds Gods Revenge againſt Murder, gilt leaves and ſilletted</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1635</cell>
+                     </row>
+                     <row>
+                        <cell>96</cell>
+                        <cell>Sir W. Rawlieghs hiſt. of the World</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>97</cell>
+                        <cell>Mr. John Seldens Tracts, never before extant</cell>
+                        <cell>1683</cell>
+                     </row>
+                     <row>
+                        <cell>98</cell>
+                        <cell>Sencca's works, gilt back, by Lodge</cell>
+                        <cell>1620</cell>
+                     </row>
+                     <pb n="7" facs="tcp:42967:6"/>
+                     <row>
+                        <cell>99</cell>
+                        <cell>Mr. Jo. Selden of the Dominion and Ownerſhip of the Sea</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>100</cell>
+                        <cell>Sympſons hiſtory of the Church</cell>
+                        <cell>1634</cell>
+                     </row>
+                     <row>
+                        <cell>101</cell>
+                        <cell>Sleidanes Commentaries</cell>
+                        <cell>1560</cell>
+                     </row>
+                     <row>
+                        <cell>102</cell>
+                        <cell>Salisburies Mathematical Collections both parts compleat</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>103</cell>
+                        <cell>M. Trapps expoſition of the minor Prophets</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>104</cell>
+                        <cell>Tourquets general hiſt. of Spain, gilt back</cell>
+                        <cell>1612</cell>
+                     </row>
+                     <row>
+                        <cell>105</cell>
+                        <cell>The treaſury of Antient and Modern times, 2 vol. gilt back</cell>
+                        <cell>1619</cell>
+                     </row>
+                     <row>
+                        <cell>106</cell>
+                        <cell>The famous voyages and travels of Vincent le Blane, gilt back</cell>
+                        <cell>1680</cell>
+                     </row>
+                     <row>
+                        <cell>107</cell>
+                        <cell>The works of Tindal, Frith and Barns-gilt back</cell>
+                        <cell>1573</cell>
+                     </row>
+                     <row>
+                        <cell>108</cell>
+                        <cell>Sir Rich. Fanſhaws Lucie, a Portugal hiſtorical Poem</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>109</cell>
+                        <cell>Sir Jo. Harringtons Orlando Furioſo, with figures and notes, with his Epigrams</cell>
+                        <cell>1634</cell>
+                     </row>
+                     <row>
+                        <cell>110</cell>
+                        <cell>F. Pultons Calender containing the effect of all the Statutes</cell>
+                        <cell>1608</cell>
+                     </row>
+                     <row>
+                        <cell>111</cell>
+                        <cell>The Voyages and Adventures of Fernand Mendez Pinto</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>112</cell>
+                        <cell>The elegant works of Fulke Lord Brook</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>113</cell>
+                        <cell>Biſhop Uſhers Body of Divinity, with his Emanuel and Life</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>114</cell>
+                        <cell>Mr. Perkins work, 3 Volumes, filletted</cell>
+                        <cell>
+                           <hi>Cambridge</hi> 1608</cell>
+                     </row>
+                     <row>
+                        <cell>115</cell>
+                        <cell>Mr. Gurnals Chriſtian in Compleat Armour</cell>
+                        <cell>
+                           <hi>London</hi> 1679</cell>
+                     </row>
+                     <row>
+                        <cell>116</cell>
+                        <cell>Du Bartus his divine weeks and work by Silveſter</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>117</cell>
+                        <cell>Mr. George Lawſons Theopolitica or body of Divinity</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>118</cell>
+                        <cell>Mr. Sam. Clarks lives of eminent perſons in this latter age</cell>
+                        <cell>1683</cell>
+                     </row>
+                     <row>
+                        <cell>119</cell>
+                        <cell>Howels parley of Beaſts, or Morphandra Queen of the inchanted Iſland</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                     </row>
+                     <row>
+                        <cell>120</cell>
+                        <cell>Mr. M. Pool. Annot. on the Old and New Teſtam. 2 vol.</cell>
+                        <cell>1683</cell>
+                     </row>
+                     <row>
+                        <cell>121</cell>
+                        <cell>Charnock on the Attributes</cell>
+                        <cell>1682</cell>
+                     </row>
+                     <row>
+                        <cell>122</cell>
+                        <cell>—his ſecond vol. being ſeveral diſe. of various divine ſubjects</cell>
+                        <cell>1684</cell>
+                     </row>
+                     <row>
+                        <cell>123</cell>
+                        <cell>Hookers Eccleſiaſt. polity in 8 books</cell>
+                        <cell>1666</cell>
+                     </row>
+                     <row>
+                        <cell>124</cell>
+                        <cell>Ward on Matthew</cell>
+                        <cell>1646</cell>
+                     </row>
+                     <row>
+                        <cell>125</cell>
+                        <cell>Speeds Chronicle</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>126</cell>
+                        <cell>—Maps with the proſpect large paper and gilt back</cell>
+                        <cell>1627</cell>
+                     </row>
+                     <row>
+                        <cell>127</cell>
+                        <cell>Dr Edw. Reynolds works</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>128</cell>
+                        <cell>Purchaſe his Pilgrimage</cell>
+                        <cell>1626</cell>
+                     </row>
+                     <row>
+                        <cell>129</cell>
+                        <cell>Plutarchs lives of the famous Grecians and Romans</cell>
+                        <cell>1631</cell>
+                     </row>
+                     <row>
+                        <cell>130</cell>
+                        <cell>—Morals</cell>
+                        <cell>1957</cell>
+                     </row>
+                     <row>
+                        <cell>131</cell>
+                        <cell>Peter Martyrs Common places</cell>
+                        <cell>1583</cell>
+                     </row>
+                     <row>
+                        <cell>132</cell>
+                        <cell>O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ilbyes Bible without the Cuts</cell>
+                        <cell>
+                           <hi>Camb.</hi> 1660</cell>
+                     </row>
+                     <row>
+                        <cell>133</cell>
+                        <cell>Bp. Andrews Sermons</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1641</cell>
+                     </row>
+                     <row>
+                        <cell>134</cell>
+                        <cell>The Hiſtory of the Councel of Trent</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>135</cell>
+                        <cell>Cambdens Brittanica</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>136</cell>
+                        <cell>Fullers Church Hiſtory</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>137</cell>
+                        <cell>Grimſtones imperial Hiſtory</cell>
+                        <cell>1623</cell>
+                     </row>
+                     <row>
+                        <cell>138</cell>
+                        <cell>Knowles Turkiſh Hiſtory</cell>
+                        <cell>1638</cell>
+                     </row>
+                     <row>
+                        <cell>139</cell>
+                        <cell>Heylins Coſmography</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>140</cell>
+                        <cell>Dr. Featlyes Sermons, or key for opening hard Texts</cell>
+                        <cell>1636</cell>
+                     </row>
+                     <row>
+                        <cell>141</cell>
+                        <cell>Bp Pearſon on the Creed</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>142</cell>
+                        <cell>Mr. Trapps Annot. on the Old and New Teſtimony, 5 vol.</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>143</cell>
+                        <cell>Smith on the Creed</cell>
+                        <cell>1632</cell>
+                     </row>
+                     <row>
+                        <cell>144</cell>
+                        <cell>Dr. Gouge on the Hebrews, 2 vol.</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>145</cell>
+                        <cell>Dr. Tho. Goodwins firſt vol. on the Epheſians</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>146</cell>
+                        <cell>Dr. Fulks confutation of the Rhemiſts notes on the New Teſtament</cell>
+                        <cell>1617</cell>
+                     </row>
+                     <row>
+                        <cell>147</cell>
+                        <cell>The Cambridge Concordance</cell>
+                        <cell>Camb. 1662</cell>
+                     </row>
+                     <row>
+                        <cell>148</cell>
+                        <cell>Downhams large Treatiſe of Juſtification</cell>
+                        <cell>Lond. 1663</cell>
+                     </row>
+                     <pb n="8" facs="tcp:42967:7"/>
+                     <row>
+                        <cell>149</cell>
+                        <cell>Hortons Sermons on Rom. 8.</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>150</cell>
+                        <cell>—on the Pſalms</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>151</cell>
+                        <cell>Williams beſt Religion</cell>
+                        <cell>1636</cell>
+                     </row>
+                     <row>
+                        <cell>152</cell>
+                        <cell>Dr. Mores Myſtery of Iniquity</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>153</cell>
+                        <cell>Mr. Elton on the 7th. 8th. and 9th. chap. of the Romans</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>154</cell>
+                        <cell>Camerarius his living library</cell>
+                        <cell>1621</cell>
+                     </row>
+                     <row>
+                        <cell>155</cell>
+                        <cell>Jo. Van Lynſchotens Voyages into the Eaſt and W. Indies, with the Mapps</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>156</cell>
+                        <cell>Dr. Jermin on the Proverbs</cell>
+                        <cell>1638</cell>
+                     </row>
+                     <row>
+                        <cell>157</cell>
+                        <cell>—on Eccleſiaſtes</cell>
+                        <cell>1639</cell>
+                     </row>
+                     <row>
+                        <cell>158</cell>
+                        <cell>Spenſers Storehouſe of Similes, or things new and old, neatly bound and filleted</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>159</cell>
+                        <cell>The Holy Bible, with the Common Prayer, Apocrypha, and Singing Pſalms</cell>
+                        <cell>
+                           <hi>Oxf.</hi> 1662</cell>
+                     </row>
+                     <row>
+                        <cell>160</cell>
+                        <cell>Dr. VVillets Synopſis Papiſme, with the account of Proteſtant Charity</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1634</cell>
+                     </row>
+                     <row>
+                        <cell>161</cell>
+                        <cell>Dr. Mantons 2d. Vol. of Sermons, on <hi>Matth.</hi> 25. <hi>John</hi> 17. &amp;c.</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>162</cell>
+                        <cell>Dr. Dees Relation of what paſſed for many years betwixt him and ſome ſpirits</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>163</cell>
+                        <cell>Lawſon on the Hebrews</cell>
+                        <cell>1662</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="type_of_book">
+               <head>Quartoes.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>THe French Academy</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1664</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>The Lord Bacons Eſſays and Councels</cell>
+                        <cell>1625</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>Biſhop Bilſons full Redemption of Mankind</cell>
+                        <cell>1599</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>The Lord Brooks of Epiſcopacy, Mr. Medes Apoſtacy of the latter times, and Gataker</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>Bucaniers of America, with Cuts, gilt back</cell>
+                        <cell>1684</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>Broughtons conſent of Scripture interleaved</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>Dr. Stubbs Anſwer to the Lord Bacon about the ſweating Sickneſs</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>D. Cornelius Borgeſſe of Baptiſmal Regeneration</cell>
+                        <cell>
+                           <hi>Oxford</hi> 1629</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>Bacons Hiſtorical diſcourſe, the Firſt Part</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1647</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>Dr. Bailyes direction for Health, and preſervation of Eye-ſight</cell>
+                        <cell>1626</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>Blackhorns Longitude not yet found out</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>Bridges of the Princes Supremacy in Eccleſiaſtical Caſes</cell>
+                        <cell>1573</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>Bariffs Military Diſcipline</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>Biſhop Bancrofts dangerous Poſitions, with B. Mortons defence of the 3 Ceremonies.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>Bates his myſtery of Art and Nature; full of Figures</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>5</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>The Country Farm</cell>
+                        <cell>1600</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>Campanellas diſcourſe of the Spaniſh Monarchy</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>Mr. Cooks 2 Treatiſes of Trade</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>Clowes obſervat. about the curing of Gun-ſhot, and of the <hi>Lues Venerea</hi>
+                        </cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>Dr. Coſins Scholaſtical Hiſtory of the Canon of Holy Scripture</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>Coopers Chronicle contain. moſt of Sleidans Commentaries, and of Paulus Ibbius</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>Croys threefold conformity, or the agreement of the Rom. Church with Gentil. &amp;c.</cell>
+                        <cell>1620</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>Clarks Holy Ovl for the Lamps of the Sanctuary</cell>
+                        <cell>1630</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>The examination and tryal of Mens wits</cell>
+                        <cell>1616</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>Fanſhawes <hi>Paſtor fido</hi> of faithful Shepherd, with other Poems</cell>
+                        <cell>1648</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>Mr. Tho. Fullers <hi>Abel Redivivus</hi> or his Lives</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>—Joſephs party coloured Coat, with his other Sermons</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>The Golden Fleece in 3 parts, with Boccalines new found Politick</cell>
+                        <cell>1621</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>Framptons joyful news out of the new found World, in 3 parts with 3 other of his diſc.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>Felthams Reſolves, the Third Edition</cell>
+                        <cell>1628</cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell>Speeds Genealogies with the Apocrypha books</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>32</cell>
+                        <cell>Goodwins Roman, Jewiſh and Attick Antiquities compleat</cell>
+                        <cell>1648</cell>
+                     </row>
+                     <row>
+                        <cell>33</cell>
+                        <cell>Cabala or Myſteries of State and Government in letters 2 parts</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>Glaukers deſcription of Philoſophical furnaces</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <pb n="9" facs="tcp:42967:7"/>
+                     <row>
+                        <cell>35</cell>
+                        <cell>Hudſons of the Eſſence and unity of the Cath. Church, 2d. edit.</cell>
+                        <cell>
+                           <hi>London</hi> 1658</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>Bp. Halls Epiſcopacy by divine Right</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>37</cell>
+                        <cell>Hays viſions of Balaams Aſſe, or picture of the Church of <hi>Rome</hi>
+                        </cell>
+                        <cell>1616</cell>
+                     </row>
+                     <row>
+                        <cell>38</cell>
+                        <cell>Hartlibs Reformed Commonwealth of Bees, and of Silk Worms</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>39</cell>
+                        <cell>The Hiſt, of the Seraglio and of the Grand Seignior</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>40</cell>
+                        <cell>Sir Hugh Plats Jewel houſe of Art and Nature</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>41</cell>
+                        <cell>King H. 8th. primier perſect, only ſome Epiſtles and Goſpels added imperfect</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>The Hiſt. of Independency in three parts</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>43</cell>
+                        <cell>Hubbards preſent ſtate of New-England</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>44</cell>
+                        <cell>Dr. Heylins Antidotum Lincolnienſe</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>45</cell>
+                        <cell>Fr. Junius of the painting of the Antients</cell>
+                        <cell>1638</cell>
+                     </row>
+                     <row>
+                        <cell>46</cell>
+                        <cell>Mr. Iſaac Ambroſes War with Devils, and miniſtration of Angels</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>47</cell>
+                        <cell>Jackſons Concordance</cell>
+                        <cell>1608</cell>
+                     </row>
+                     <row>
+                        <cell>48</cell>
+                        <cell>Kettlewels meaſures of Chriſtian obedience</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>49</cell>
+                        <cell>Lithgoths 19 years Travels, Voyages and rare Adventures</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>50</cell>
+                        <cell>Lloyds Marrow of Hiſt or the pilgrimage of Kings and Princes</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>51</cell>
+                        <cell>Leonards Hiſt. of the Waldenſes and Albigenſes</cell>
+                        <cell>1624</cell>
+                     </row>
+                     <row>
+                        <cell>52</cell>
+                        <cell>Mr. Chriſt. Loves works in a large quarto</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>53</cell>
+                        <cell>Lambards perambulation of <hi>Kent</hi>
+                        </cell>
+                        <cell>1576</cell>
+                     </row>
+                     <row>
+                        <cell>54</cell>
+                        <cell>Mr. P. du Moulins vindication of the Proteſtant Religion</cell>
+                        <cell>1679</cell>
+                     </row>
+                     <row>
+                        <cell>55</cell>
+                        <cell>Maſon of the New Art of Lying, with 2 Treatiſes more</cell>
+                        <cell>1624</cell>
+                     </row>
+                     <row>
+                        <cell>56</cell>
+                        <cell>Moxons Tutor to Geography and Aſtronomy</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>57</cell>
+                        <cell>A Miſcellany of 14 tracts beginning with Sir Robert Cottons narrative of C. Gundam.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>58</cell>
+                        <cell>A Miſcellany begins with <hi>Englands</hi> wiſhes with 12 more about Spain</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>59</cell>
+                        <cell>Dr. Owen of the death of Chriſt, with a ſeaſonable word to a ſober people</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>60</cell>
+                        <cell>Patricks parable of the Pilgrim</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>61</cell>
+                        <cell>Palmers Catholick Planiſphere, or Mathematical Jewel</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>62</cell>
+                        <cell>Dr. Pearſons Expoſition of the Creed</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>63</cell>
+                        <cell>Philpots Catal. of the Chancelors, Lord Keepers and Lord Treaſurers of England</cell>
+                        <cell>1636</cell>
+                     </row>
+                     <row>
+                        <cell>64</cell>
+                        <cell>Du Pleſſis Treatiſe of the Church</cell>
+                        <cell>1606</cell>
+                     </row>
+                     <row>
+                        <cell>65</cell>
+                        <cell>Quintus Curtius of the life and death of Alexander the great</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>66</cell>
+                        <cell>Reinolds Chronicle of all the Roman Emperours with their heads</cell>
+                        <cell>1571</cell>
+                     </row>
+                     <row>
+                        <cell>67</cell>
+                        <cell>Records Caſtle of knowledge</cell>
+                        <cell>1596</cell>
+                     </row>
+                     <row>
+                        <cell>68</cell>
+                        <cell>Ridleys view of the Civil and Eccleſiaſtical Law</cell>
+                        <cell>1607</cell>
+                     </row>
+                     <row>
+                        <cell>69</cell>
+                        <cell>Sadlers Olbia, or New Iſland diſcovered</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>70</cell>
+                        <cell>Somners Antiquities of Canterbury</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>71</cell>
+                        <cell>Smiths Art of Gunnery, with Bourns Art of great Ordinance</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <row>
+                        <cell>72</cell>
+                        <cell>The Secreets of the Reverend Maſter Alexis of Piedmont</cell>
+                        <cell>1558</cell>
+                     </row>
+                     <row>
+                        <cell>73</cell>
+                        <cell>Spencers Fairy Queen, in 2 Vol.</cell>
+                        <cell>1596</cell>
+                     </row>
+                     <row>
+                        <cell>74</cell>
+                        <cell>Sir Tho. Smith of the Government of England</cell>
+                        <cell>1584</cell>
+                     </row>
+                     <row>
+                        <cell>75</cell>
+                        <cell>Sprints Caſſander Anglicanus with other Tracts</cell>
+                        <cell>1618</cell>
+                     </row>
+                     <row>
+                        <cell>76</cell>
+                        <cell>Stirrups deſcription of the univerſal Quadrant</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>77</cell>
+                        <cell>The defence of Prieſts Marriages againſt Dr. Martyn</cell>
+                        <cell>1599</cell>
+                     </row>
+                     <row>
+                        <cell>78</cell>
+                        <cell>A diſcourſe of the troubles of Francford with 2 other</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>79</cell>
+                        <cell>Dr. Potters enterpretation of the number 666</cell>
+                        <cell>
+                           <hi>Oxford</hi> 1642</cell>
+                     </row>
+                     <row>
+                        <cell>80</cell>
+                        <cell>An exact account of the trial of the Regicides</cell>
+                        <cell>
+                           <hi>London</hi> 1660</cell>
+                     </row>
+                     <row>
+                        <cell>81</cell>
+                        <cell>A learned Treatiſe of Uſe and Cuſtom</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>82</cell>
+                        <cell>Mr. R. Boyles defence of the ſpring and weight of Air</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>83</cell>
+                        <cell>All the paſſages between the King and his Parliament all the while he was in York</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>84</cell>
+                        <cell>Mr. Seldens Hiſtory of Tithes</cell>
+                        <cell>1618</cell>
+                     </row>
+                     <pb n="10" facs="tcp:42967:8"/>
+                     <row>
+                        <cell>85</cell>
+                        <cell>The whole works of Sam. Daniel in Poetry</cell>
+                        <cell>1623</cell>
+                     </row>
+                     <row>
+                        <cell>86</cell>
+                        <cell>Mr. R. Vines Treatiſe of the Sacrament of the Lords Supper</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>87</cell>
+                        <cell>Yarringtons Englands improvement, 2 parts, in 2 vol. with the Mapps</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>88</cell>
+                        <cell>Sir Jo. Haywards life and Reign of Edw. 6. and Hen. 4th.</cell>
+                        <cell>1630</cell>
+                     </row>
+                     <row>
+                        <cell>89</cell>
+                        <cell>Wottons trial of the Romiſh Clergies Title to the Church</cell>
+                        <cell>1608</cell>
+                     </row>
+                     <row>
+                        <cell>90</cell>
+                        <cell>The general view of the Holy Scriptures</cell>
+                        <cell>1607</cell>
+                     </row>
+                     <row>
+                        <cell>91</cell>
+                        <cell>Whites way to the true Church</cell>
+                        <cell>1616</cell>
+                     </row>
+                     <row>
+                        <cell>92</cell>
+                        <cell>Verſtegans reſtitution of decayed intelligence</cell>
+                        <cell>1628</cell>
+                     </row>
+                     <row>
+                        <cell>93</cell>
+                        <cell>Wottons defence of Perkins Reformed Catholick</cell>
+                        <cell>1606</cell>
+                     </row>
+                     <row>
+                        <cell>94</cell>
+                        <cell>The Treaſury of Evonimus printed at <hi>London</hi> by <hi>John Day</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>95</cell>
+                        <cell>-12 Ingenious Treatiſes, begins with conceited letters, and ends with the Hiſtory of Patient Griſſel</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>96</cell>
+                        <cell>Sir Thomas Mores Utopia tranſlated by Robinſon</cell>
+                        <cell>1624</cell>
+                     </row>
+                     <row>
+                        <cell>97</cell>
+                        <cell>Walſinghams ſearch into matters of Religion</cell>
+                        <cell>1609</cell>
+                     </row>
+                     <row>
+                        <cell>98</cell>
+                        <cell>The ſinners guide, wrote firſt in Spaniſh by F. Lewis of Granada gilt</cell>
+                        <cell>1598</cell>
+                     </row>
+                     <row>
+                        <cell>99</cell>
+                        <cell>Feild on the Church</cell>
+                        <cell>1606</cell>
+                     </row>
+                     <row>
+                        <cell>100</cell>
+                        <cell>Weems his works 2 vol. compleat</cell>
+                        <cell>1636</cell>
+                     </row>
+                     <row>
+                        <cell>101</cell>
+                        <cell>Bridges works, 2 vol. compleat</cell>
+                        <cell>1649, 1656</cell>
+                     </row>
+                     <row>
+                        <cell>102</cell>
+                        <cell>Mr. Flavels Treatiſe of the ſoul of man</cell>
+                        <cell>1685</cell>
+                     </row>
+                     <row>
+                        <cell>103</cell>
+                        <cell>Burroughs on Matthew 11,</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>104</cell>
+                        <cell>Mr. Joſeph Medes works in 2 vol.</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>105</cell>
+                        <cell>Swans ſpeculum Mundi</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <row>
+                        <cell>106</cell>
+                        <cell>J. Nordens intended guide for Engliſh Travellers</cell>
+                        <cell>1625</cell>
+                     </row>
+                     <row>
+                        <cell>107</cell>
+                        <cell>Collings cordial for a fainting ſoul</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>108</cell>
+                        <cell>Dr. Goodmans penitent pardoned, with cuts</cell>
+                        <cell>1679</cell>
+                     </row>
+                     <row>
+                        <cell>109</cell>
+                        <cell>Dr. Kelliſons ſurvey of the new Religion</cell>
+                        <cell>1605</cell>
+                     </row>
+                     <row>
+                        <cell>110</cell>
+                        <cell>Sir Dudly Diggs of the unlawf. of Subjects taking up Arms againſt their Soveraign</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>111</cell>
+                        <cell>Bp. Bilſons difference between Chriſtian ſubjection and unchriſtian Rebellion</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>112</cell>
+                        <cell>Dr. Ames freſh ſuit againſt Ceremonies in the worſhip of God</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>113</cell>
+                        <cell>Liſles antient monuments in the Saxon Tongue, with their uſe then of the Sacram.</cell>
+                        <cell>1638</cell>
+                     </row>
+                     <row>
+                        <cell>114</cell>
+                        <cell>Fitzherbert concerning policy and Religion</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>115</cell>
+                        <cell>Sir Roger Twiſdens hiſtorical vindication of the Church of England</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>116</cell>
+                        <cell>The Aſſemblies directory for the publick Worſhip of God</cell>
+                        <cell>1644</cell>
+                     </row>
+                     <row>
+                        <cell>117</cell>
+                        <cell>Scots diſcovery of Witcheraft</cell>
+                        <cell>1584</cell>
+                     </row>
+                     <row>
+                        <cell>118</cell>
+                        <cell>Clements Epiſtle to the Corinth. with Burtons Annotations</cell>
+                        <cell>1647</cell>
+                     </row>
+                     <row>
+                        <cell>119</cell>
+                        <cell>Tertullians Apology or defence of the Chriſtians</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>120</cell>
+                        <cell>Speeches and paſſages of Parliament from Novemb. the 3d. 1640. till June 1641.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>121</cell>
+                        <cell>The Swediſh intelligencer in 7 parts compleat in 2 vol. with the Swediſh Diſcipline</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>122</cell>
+                        <cell>Dr. Heylins little deſcription of the great World</cell>
+                        <cell>1636</cell>
+                     </row>
+                     <row>
+                        <cell>123</cell>
+                        <cell>Lowes diſcourſe of the whole Art of Chirurgery</cell>
+                        <cell>1612</cell>
+                     </row>
+                     <row>
+                        <cell>124</cell>
+                        <cell>The Zodiack of life, by that excellent Chriſtian Poet, Marcellus Pallengin.</cell>
+                        <cell>1576</cell>
+                     </row>
+                     <row>
+                        <cell>125</cell>
+                        <cell>Sadlers rights of the Kingdom, or the cuſtomes of our Anceſtors</cell>
+                        <cell>1682</cell>
+                     </row>
+                     <row>
+                        <cell>126</cell>
+                        <cell>Blundevils exerciſes in 8 Treatiſes</cell>
+                        <cell>1613</cell>
+                     </row>
+                     <row>
+                        <cell>127</cell>
+                        <cell>Of the Nine Worthy women of the World</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>128</cell>
+                        <cell>Charron of Wiſdom in 3 books</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>129</cell>
+                        <cell>Ogilbyes Eſops Fables with cuts</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>130</cell>
+                        <cell>Langhams Garden of Health</cell>
+                        <cell>1579</cell>
+                     </row>
+                     <row>
+                        <cell>131</cell>
+                        <cell>The life and death of Martyn Luther</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <row>
+                        <cell>132</cell>
+                        <cell>Sands ſtate of Religion in the Weſtern parts of the World</cell>
+                        <cell>1605</cell>
+                     </row>
+                     <row>
+                        <cell>133</cell>
+                        <cell>Caryl upon Job 12 parts, in 12 vol. compleat</cell>
+                        <cell> </cell>
+                     </row>
+                     <pb n="11" facs="tcp:42967:8"/>
+                     <row>
+                        <cell>134</cell>
+                        <cell>Sir Richard Bakers Meditations on the Lords Prayer and Pſalms</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>135</cell>
+                        <cell>Clarks Annotations on the New Teſtament</cell>
+                        <cell>1683</cell>
+                     </row>
+                     <row>
+                        <cell>136</cell>
+                        <cell>Mr. Whatlyes Gods husbandry</cell>
+                        <cell>1622</cell>
+                     </row>
+                     <row>
+                        <cell>137</cell>
+                        <cell>Mr. Baxters Saints everlaſting reſt</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>138</cell>
+                        <cell>—His Treatiſe of Epiſcopacy</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>139</cell>
+                        <cell>—Reaſons of the Chriſtian Religion</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <row>
+                        <cell>140</cell>
+                        <cell>—Scripture proof for infants Church Memberſhip</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>141</cell>
+                        <cell>Mr. Randals 23 Sermons on the Sacrament</cell>
+                        <cell>1630</cell>
+                     </row>
+                     <row>
+                        <cell>142</cell>
+                        <cell>Dr. Bates Harmony of the Attributes</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>143</cell>
+                        <cell>Barkers Expoſition on the X. Commandments</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>144</cell>
+                        <cell>Dr. Holdſworths Sermons</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>145</cell>
+                        <cell>Peter Du Moulins Anatomy of Arminianiſm</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>146</cell>
+                        <cell>Dr. Gilpin on Satans temptations in 3 parts</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>147</cell>
+                        <cell>Bp. Halls peace of <hi>Rome</hi>
+                        </cell>
+                        <cell>1609</cell>
+                     </row>
+                     <row>
+                        <cell>148</cell>
+                        <cell>Mr. Gores Sermons on ſeveral occaſions</cell>
+                        <cell>1646</cell>
+                     </row>
+                     <row>
+                        <cell>149</cell>
+                        <cell>Uſhers Anſwer to the Jeſuits challenge</cell>
+                        <cell>
+                           <hi>Dubl.</hi> 1624</cell>
+                     </row>
+                     <row>
+                        <cell>150</cell>
+                        <cell>The rejoinder to the Jeſuits reply</cell>
+                        <cell>
+                           <hi>Dubl.</hi> 1632</cell>
+                     </row>
+                     <row>
+                        <cell>151</cell>
+                        <cell>Dr. Hollidays ten Sermons</cell>
+                        <cell>
+                           <hi>Oxon</hi> 1657</cell>
+                     </row>
+                     <row>
+                        <cell>152</cell>
+                        <cell>Bp. Reinolds his 25 Sermons</cell>
+                        <cell>
+                           <hi>London</hi> 1663</cell>
+                     </row>
+                     <row>
+                        <cell>153</cell>
+                        <cell>Bagſhaws great queſtion about things indifferent, with other peices</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>154</cell>
+                        <cell>A reply to the conference between Laud and Fiſher</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>155</cell>
+                        <cell>Two books of the Lord Bacons advancement of Learning</cell>
+                        <cell>
+                           <hi>Oxford</hi> 1633</cell>
+                     </row>
+                     <row>
+                        <cell>156</cell>
+                        <cell>Smiths Eſſex Dove</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1637</cell>
+                     </row>
+                     <row>
+                        <cell>157</cell>
+                        <cell>Burroughs method of Phyſick</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>158</cell>
+                        <cell>Woodwards Kings Chronicle</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <row>
+                        <cell>159</cell>
+                        <cell>Culverwels Treatiſe of the light of nature, &amp;c.</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>160</cell>
+                        <cell>Dr. Sclater on the firſt and 2d. of the Theſſalonians</cell>
+                        <cell>1630</cell>
+                     </row>
+                     <row>
+                        <cell>161</cell>
+                        <cell>Pools Quo Warranto</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>162</cell>
+                        <cell>The farewel Sermons compleat</cell>
+                        <cell>1663</cell>
+                     </row>
+                     <row>
+                        <cell>163</cell>
+                        <cell>—12 volumes of Sermons before the Parliament</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>164</cell>
+                        <cell>Dr. Sibbs his Bowels opened</cell>
+                        <cell>164<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>165</cell>
+                        <cell>Mr. Swinnocks Chriſtian mans calling the firſt and ſecond part, 2 vol.</cell>
+                        <cell>1662, 1663</cell>
+                     </row>
+                     <row>
+                        <cell>166</cell>
+                        <cell>The Catalogue of <hi>Syon</hi> Colledge Library</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>167</cell>
+                        <cell>Douglas's great myſtery of Godlineſs</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>168</cell>
+                        <cell>Fiſhers Catalogue of the memorable Tombs, Grave ſtones, &amp;c. in <hi>London</hi>
+                        </cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>169</cell>
+                        <cell>Stows ſurvey of <hi>London</hi>
+                        </cell>
+                        <cell>1618</cell>
+                     </row>
+                     <row>
+                        <cell>170</cell>
+                        <cell>Cambdens remains concerning Brittain</cell>
+                        <cell>1614</cell>
+                     </row>
+                     <row>
+                        <cell>171</cell>
+                        <cell>The Countrey mans Recreations with the expert Gardiner</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>172</cell>
+                        <cell>Queen Elizabeths Cloſet, or phyſical ſecrets</cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>173</cell>
+                        <cell>Sir Fr. Bacons elements of the Common Laws of England</cell>
+                        <cell>1636</cell>
+                     </row>
+                     <row>
+                        <cell>174</cell>
+                        <cell>Dr. Sprats hiſtory of the Royal Society</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <row>
+                        <cell>175</cell>
+                        <cell>Paul Servi the Venetians Apology for Gerſen, with the anſw. to Doleman about ſucceſ.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>176</cell>
+                        <cell>The full Relation of the proceedings againſt the late Traitors, Garnet, &amp;c.</cell>
+                        <cell>1606</cell>
+                     </row>
+                     <row>
+                        <cell>177</cell>
+                        <cell>The Travels of 4 Engliſh men, and a Preacher eleven years</cell>
+                        <cell>1612</cell>
+                     </row>
+                     <row>
+                        <cell>178</cell>
+                        <cell>Policies unveiled, or maxims of ſtate, tranſlated out of Spaniſh</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>179</cell>
+                        <cell>Mr. Tho. Hookers hiſt. of New England</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>180</cell>
+                        <cell>Huntleys Breviate</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>181</cell>
+                        <cell>Herodians Imperial hiſtory</cell>
+                        <cell>1629</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="type_of_book">
+               <pb n="12" facs="tcp:42967:9"/>
+               <head>
+                  <hi>Octavo</hi>'s.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>CAgrippa's vanity of Arts and Sciences</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1684</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>Bp Andrews pattern of Catechiſtical Doctrine</cell>
+                        <cell>1930</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>The Alchoran of Mahomet</cell>
+                        <cell>1649</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>Argumentum Antinormanicum by Pettit</cell>
+                        <cell>1682</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>Of the Confuſions and Revolutions of Government</cell>
+                        <cell>1649</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>Mr. John Angiers holy life and happy death</cell>
+                        <cell>1685</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>Hodders Arithmetick</cell>
+                        <cell>1683</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>The lively Oracles of God, by the Author of the whole duty of man, gilt</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>The life of the Renowned Pet. D' Abuſſon grand Maſter of Rhodes</cell>
+                        <cell>1679</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>Anderſons Art of Gauging</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>Ariſtippus or Balſacs Maſter-piece</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>A. B. Lauds Sermons</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>Bethels intereſt of the Princes and ſtates of Europe</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>Bp Bramhalls vindication of the Church of Eng. ftom ſchiſm</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>—his replication to the Biſhop of Chalcedon</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>Dr. Brevints Saul and Samuel at Endor</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>Braithwayts Eſſays upon the five ſenſes</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>Dr. Burnets new politick lights of modern Romes Church Government</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>Mr. Rob. Boyles ſceptical Chymiſt</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>Cottoni poſthuma: ſome choice pieces of the Renowned Antiqu. Sir R. Cotton</cell>
+                        <cell>1679</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>Charles the 5th. advice to his ſon Phil. the 2d. upon his Reſignation</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>Marcus Antoninus his meditations with Cauſaubons Notes</cell>
+                        <cell>1663</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>Cornelius Nepos, the lives of illuſtrious men</cell>
+                        <cell>1685</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>The Clergies honour in the lives of St. Baſil and St. Chryſoſtome</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>Cuſanus his Idiot in 4 books</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>The Calviniſts Cabinet unlocked, or an Apology for Tylenus</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>Mr. Corbets intereſt of Engl. in matters of Religion</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>A Catalogue of the Nobility</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>The Common Prayer-book for the Church of Scotland</cell>
+                        <cell>1642</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>A Relation of the Countrey of Janſenia</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell>Cleaveland revived all his works</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>32</cell>
+                        <cell>Dr. Stubbs his Anatomy of Abuſes</cell>
+                        <cell>1583</cell>
+                     </row>
+                     <row>
+                        <cell>33</cell>
+                        <cell>Dr. Featlyes handmaid to Devotion</cell>
+                        <cell>1648</cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>Dr. Sparrows Rationale of the Common Prayer</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>35</cell>
+                        <cell>Lewis Du-May, the eſtate of the Empire</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>Dr. Ferns conſiderations in defence of the Church of England</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>37</cell>
+                        <cell>Dr. H. Stubbs Eſſay in defence of the Good Old Cauſe</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>38</cell>
+                        <cell>The diſputation of a Chriſtian with an obſtinate Jew, neatly bound</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>39</cell>
+                        <cell>Of Education of young Gentlemen, in 2 parts</cell>
+                        <cell>
+                           <hi>Oxford</hi> 1673</cell>
+                     </row>
+                     <row>
+                        <cell>40</cell>
+                        <cell>The examination of Tylenus before the Tryers</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1658</cell>
+                     </row>
+                     <row>
+                        <cell>41</cell>
+                        <cell>The life and Philoſophy of Epictetus, with Celes Table</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>Dr. Fowlers free diſcourſe, or the principles and pract. of the Latudinarians</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>43</cell>
+                        <cell>The preſent ſtate of France</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>44</cell>
+                        <cell>Staffords Female glory, or the life of the Virgin Mary</cell>
+                        <cell>1635</cell>
+                     </row>
+                     <row>
+                        <cell>45</cell>
+                        <cell>Fairfax of the bulk and ſelvedge of the World</cell>
+                        <cell>16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>4</cell>
+                     </row>
+                     <row>
+                        <cell>56</cell>
+                        <cell>Franzius his hiſtory of Brutes</cell>
+                        <cell>1770</cell>
+                     </row>
+                     <row>
+                        <cell>57</cell>
+                        <cell>Felthams brief character of the Low Countreys</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>58</cell>
+                        <cell>Greaves his deſcription of the Grand Signior Seraglio</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <pb n="13" facs="tcp:42967:9"/>
+                     <row>
+                        <cell>59</cell>
+                        <cell>Gailhards preſent ſtate of Venice and Candia, and the princ. and R. P. of Italy</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>60</cell>
+                        <cell>The holy life of Gregory Lopez, gilt back</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>61</cell>
+                        <cell>Humane induſtry, or a diſcourſe of manual Arts</cell>
+                        <cell>1666</cell>
+                     </row>
+                     <row>
+                        <cell>62</cell>
+                        <cell>The hiſt. of the Kings affairs under the M. of Montroſs</cell>
+                        <cell>1649</cell>
+                     </row>
+                     <row>
+                        <cell>63</cell>
+                        <cell>Hobbs of humane nature, or the fundamental elements of policy</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>64</cell>
+                        <cell>The hiſt. of the treatiſe of Nimmingen with Remarks</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>65</cell>
+                        <cell>The Roman hiſt. of Julius Lucius Florus</cell>
+                        <cell>1626</cell>
+                     </row>
+                     <row>
+                        <cell>66</cell>
+                        <cell>Mr. Hobbs of liberty and neceſſity, with Bp Bramhalls Obſerv.</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>67</cell>
+                        <cell>Bp Halls occaſional meditations</cell>
+                        <cell>1633</cell>
+                     </row>
+                     <row>
+                        <cell>68</cell>
+                        <cell>Judge Hales Meditations, 2 Vol. large letter</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>69</cell>
+                        <cell>Howels 12 ſeveral treatiſes of the revolutions in the 3 Kingdoms</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>70</cell>
+                        <cell>Naudeus hiſt. of Magick</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>71</cell>
+                        <cell>The hiſtory of the Bohemian perſecution</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>72</cell>
+                        <cell>Heylins help to Engliſh hiſtory</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>73</cell>
+                        <cell>Bp Hoopers declarat. of the X Commandments</cell>
+                        <cell>1548</cell>
+                     </row>
+                     <row>
+                        <cell>74</cell>
+                        <cell>Glanvils pre-exiſtence of ſouls a key for Providence</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>75</cell>
+                        <cell>—His prefatory anſw. to Dr. Hen. Stubbs</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>76</cell>
+                        <cell>Gildas Epiſtles to the Brittains</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>77</cell>
+                        <cell>Mr. Iſaac Waltons compleat Angler, wants only the title page</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>78</cell>
+                        <cell>Howels Familiar Letters compleat, in 2 vol.</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>71</cell>
+                        <cell>Sir Iſaac Wakes 3 fold help to political obſervations</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>72</cell>
+                        <cell>The Italian convert, or the life of Galaceus Carracciolus</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>73</cell>
+                        <cell>The Idol of the Clowns, or the Inſurrection of Wat. Tyler</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>74</cell>
+                        <cell>Bp Jer. Taylors contemplations of the ſtate of man in this world and the next</cell>
+                        <cell>84</cell>
+                     </row>
+                     <row>
+                        <cell>75</cell>
+                        <cell>The Life of the renowned Peireskius, by Gaſſendus</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>76</cell>
+                        <cell>The Life and reign of King Rich. the 2d.</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>77</cell>
+                        <cell>The Life of St. Anthony of Padova</cell>
+                        <cell>
+                           <hi>Paris</hi> 1660</cell>
+                     </row>
+                     <row>
+                        <cell>78</cell>
+                        <cell>Mr. Lawſons examination of the political part of Hobbs Leviathan</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1657</cell>
+                     </row>
+                     <row>
+                        <cell>79</cell>
+                        <cell>The key of Paradice opening the gate to eternal ſalvation</cell>
+                        <cell>1639</cell>
+                     </row>
+                     <row>
+                        <cell>80</cell>
+                        <cell>Lambards office of a juſtice of peace, in 4 books</cell>
+                        <cell>1588</cell>
+                     </row>
+                     <row>
+                        <cell>81</cell>
+                        <cell>The Life of Du Rutier Admiral of Holland</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>82</cell>
+                        <cell>The Life and death of Mr. John Row</cell>
+                        <cell>1673</cell>
+                     </row>
+                     <row>
+                        <cell>83</cell>
+                        <cell>Langhorns introduction to the hiſt. of England</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>84</cell>
+                        <cell>Lingua a pleaſant Comedy</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>85</cell>
+                        <cell>Dr. Martyn Luthers Sermons</cell>
+                        <cell>1649</cell>
+                     </row>
+                     <row>
+                        <cell>86</cell>
+                        <cell>Mancheſters contempl, on death and immortality</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>87</cell>
+                        <cell>Mercurius Ruſticus compleat, with Querela Cantabrigenſis</cell>
+                        <cell>1649</cell>
+                     </row>
+                     <row>
+                        <cell>88</cell>
+                        <cell>Pet. Du Moulins accompliſhment of Propheſies</cell>
+                        <cell>
+                           <hi>Oxford</hi> 1613</cell>
+                     </row>
+                     <row>
+                        <cell>89</cell>
+                        <cell>Modern policies</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1652</cell>
+                     </row>
+                     <row>
+                        <cell>90</cell>
+                        <cell>Dr. Manwarings compleat Phyſitian</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>91</cell>
+                        <cell>Maſſionella, or the hiſt. of the revolutions of Naples both parts</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>92</cell>
+                        <cell>Cottons mirror of Martyrs</cell>
+                        <cell>1639</cell>
+                     </row>
+                     <row>
+                        <cell>93</cell>
+                        <cell>The memorable and tragical hiſt. of the perſec. in Africa by the Arrians</cell>
+                        <cell>1605</cell>
+                     </row>
+                     <row>
+                        <cell>94</cell>
+                        <cell>Nierembergius of the diff. between the temporal and eternal</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>95</cell>
+                        <cell>Philips his mathematical manual</cell>
+                        <cell>1684</cell>
+                     </row>
+                     <row>
+                        <cell>96</cell>
+                        <cell>The perfect politician, or the Life of Oliver Cromwel</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>97</cell>
+                        <cell>Powels Life of Alfred or Alured</cell>
+                        <cell>1634</cell>
+                     </row>
+                     <row>
+                        <cell>98</cell>
+                        <cell>Paul Servitas hiſt. of the Inquiſition</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>99</cell>
+                        <cell>Dr. Playfers true doctrine of divine predeſtination</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <pb n="14" facs="tcp:42967:10"/>
+                     <row>
+                        <cell>100</cell>
+                        <cell>Paynels Pandects of the Evangelical Law</cell>
+                        <cell>
+                           <hi>London</hi> 1553</cell>
+                     </row>
+                     <row>
+                        <cell>101</cell>
+                        <cell>Dr. Patricks hearts eaſe againſt all trouble, with his Conſel. diſc.</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>102</cell>
+                        <cell>The Portugal Hiſtory</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>103</cell>
+                        <cell>The Rhemiſh Teſtament with large Annotations</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>104</cell>
+                        <cell>The Reconciler of the Bible</cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>105</cell>
+                        <cell>Rogers tranſlation of the imitation of Chriſt by Thomas a Kempis</cell>
+                        <cell>1617</cell>
+                     </row>
+                     <row>
+                        <cell>106</cell>
+                        <cell>The Womans ſharp Revenge, by <hi>Mary Tattlewell</hi> and <hi>Joan Hit. him-home</hi>
+                        </cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>107</cell>
+                        <cell>Religio Medici, with Annotat. and obſervat. of Sir <hi>K. Digby</hi>
+                        </cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>108</cell>
+                        <cell>Dr. Sherlocks practical diſc. of Religious Aſſemblies</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>109</cell>
+                        <cell>Mr. Seldens tract proving the Nativity of our Saviour to be <hi>Decemb.</hi> 25.</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>110</cell>
+                        <cell>The School of the heart, in 44 Emblems</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>111</cell>
+                        <cell>Dr. Spurſtows ſpiritual Chymiſt</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>112</cell>
+                        <cell>—Treatiſe of the Promiſes</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>113</cell>
+                        <cell>Stephens Eſſays and Characters</cell>
+                        <cell>1631</cell>
+                     </row>
+                     <row>
+                        <cell>114</cell>
+                        <cell>Sales introduction to a devout life</cell>
+                        <cell>
+                           <hi>Dublin</hi> 1673</cell>
+                     </row>
+                     <row>
+                        <cell>115</cell>
+                        <cell>Serjants ſure footing in Chriſtianity</cell>
+                        <cell>
+                           <hi>London</hi> 1665</cell>
+                     </row>
+                     <row>
+                        <cell>116</cell>
+                        <cell>A Treatiſe of warm drink</cell>
+                        <cell>
+                           <hi>Camb.</hi> 1641</cell>
+                     </row>
+                     <row>
+                        <cell>117</cell>
+                        <cell>A Treatiſe of Paradiſe</cell>
+                        <cell>
+                           <hi>London</hi> 1617</cell>
+                     </row>
+                     <row>
+                        <cell>118</cell>
+                        <cell>-5 Treatiſes by Vincentius Syrinenſis, Savonoralo and St. Auguſtine</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>119</cell>
+                        <cell>The following of Chriſt, with St. <hi>Bernards</hi> golden Epiſtle</cell>
+                        <cell>1556</cell>
+                     </row>
+                     <row>
+                        <cell>120</cell>
+                        <cell>The late travels of G. Barratti amongſt the Abyſſines</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>121</cell>
+                        <cell>The whole duty of Man</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>122</cell>
+                        <cell>The Meditations of St. Auguſtine tranſl. by Bat.</cell>
+                        <cell>1624</cell>
+                     </row>
+                     <row>
+                        <cell>123</cell>
+                        <cell>The examination of Tylenus before the Tryers</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>124</cell>
+                        <cell>Wallers Poems</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>125</cell>
+                        <cell>The way to Chriſt diſcovered by <hi>Jacob Behmen</hi>
+                        </cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>126</cell>
+                        <cell>The Covert from the ſtorm by <hi>Nath. Vincent</hi>
+                        </cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>127</cell>
+                        <cell>The Remembrance of Ten excellent men</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>128</cell>
+                        <cell>Elborows Expoſit. of the book of Common-Prayer</cell>
+                        <cell>1663</cell>
+                     </row>
+                     <row>
+                        <cell>129</cell>
+                        <cell>Waltons Lives, of Dr. Donne, Sir H. Wotton, Mr. R. Hooker, and Mr. G.—Herbert</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>130</cell>
+                        <cell>The Theatre vindicated by Sir R Baker</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>131</cell>
+                        <cell>Sir T. More of the Lives of Edw. the 5th. and Rich. the 3d.</cell>
+                        <cell>1641</cell>
+                     </row>
+                     <row>
+                        <cell>132</cell>
+                        <cell>Sir H. Wottons Remains, Lives, Letters, Poems, &amp;c.</cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>133</cell>
+                        <cell>The moral Philoſophy of the Stoicks</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <row>
+                        <cell>134</cell>
+                        <cell>A true and juſt relation of the proceedings at <hi>Amboyna</hi>
+                        </cell>
+                        <cell>1651</cell>
+                     </row>
+                     <row>
+                        <cell>135</cell>
+                        <cell>Dr. Waltons conſiderator conſidered</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>136</cell>
+                        <cell>The Reformed Monaſtery, or the love of Jeſus in 2 parts</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>137</cell>
+                        <cell>The tears of the Indians, or the Maſſacres of 20 millions by the Spaniards</cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>138</cell>
+                        <cell>The deſign of Chriſtianity by Dr. Fowler</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>139</cell>
+                        <cell>Hobbs de Corpore Politico, or Elem. of the Law Moral and Politick:</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>140</cell>
+                        <cell>America, or an exact deſcript. of the Weſt Indies by N. N.</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>141</cell>
+                        <cell>Dr. Robert Wilds Iter Boreale, and his other Poems</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>142</cell>
+                        <cell>Holwels ſure guide to the practical ſurveyor</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>143</cell>
+                        <cell>Sir T. Overburies, wife, characters, news, &amp;c.</cell>
+                        <cell>1622</cell>
+                     </row>
+                     <row>
+                        <cell>144</cell>
+                        <cell>Baſiers hiſt. of the Engl. and Scotch Presbytery</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>145</cell>
+                        <cell>The School of Potentates, with Naſh his illuſtrations and obſervations</cell>
+                        <cell>1648</cell>
+                     </row>
+                     <row>
+                        <cell>146</cell>
+                        <cell>Lillies 6 Court Comedies</cell>
+                        <cell>1632</cell>
+                     </row>
+                     <row>
+                        <cell>147</cell>
+                        <cell>Dr. Leyburns holy characters containing a miſcellany of Theological diſcourſe</cell>
+                        <cell>1662</cell>
+                     </row>
+                     <row>
+                        <cell>148</cell>
+                        <cell>Major Gen. Skippons ſalve for every ſore, or a collection of promiſes</cell>
+                        <cell>1643</cell>
+                     </row>
+                     <pb n="15" facs="tcp:42967:10"/>
+                     <row>
+                        <cell>149</cell>
+                        <cell>Mr. Geo. Lawſons Magna Charta, or the grand Charter, &amp;c.</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1686</cell>
+                     </row>
+                     <row>
+                        <cell>150</cell>
+                        <cell>Yet a Courſe at the Romiſh Fox, or a diſcloſing of the man of ſin, by <hi>Jo.—Harriſon</hi>
+                        </cell>
+                        <cell>
+                           <hi>Zur.</hi> 1543</cell>
+                     </row>
+                     <row>
+                        <cell>151</cell>
+                        <cell>J. H. Dodona's Grove, or the Vocal Foreſt, with 2 Treatiſes</cell>
+                        <cell>
+                           <hi>London</hi> 1645</cell>
+                     </row>
+                     <row>
+                        <cell>152</cell>
+                        <cell>Sir H. Spelman de non temerandis eccleſtis, or the rights due to Churches</cell>
+                        <cell>1616</cell>
+                     </row>
+                     <row>
+                        <cell>153</cell>
+                        <cell>The life of Socinus by a Polonian Knight, with 2 of Soc. Treatiſes, and the—Racovian Cat.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>154</cell>
+                        <cell>The Bible with ſinging Pſalms gilt leaves and filletted</cell>
+                        <cell>
+                           <hi>Oxford</hi> 1682</cell>
+                     </row>
+                     <row>
+                        <cell>155</cell>
+                        <cell>Mr. Howes bleſſedneſs of the Righteous</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1668</cell>
+                     </row>
+                     <row>
+                        <cell>156</cell>
+                        <cell>The triumphs of <hi>Rome</hi> over deſpiſed Proteſtantiſme</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>157</cell>
+                        <cell>Mr. Faldo's Quakeriſm no Chriſtianity</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>158</cell>
+                        <cell>Dr. Tillotsſors firſt volume of Sermons</cell>
+                        <cell>1971</cell>
+                     </row>
+                     <row>
+                        <cell>159</cell>
+                        <cell>Smiths Rhetorick unvailed</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>160</cell>
+                        <cell>Larkins glaſs of the Fathers, Philoſophers, Hiſtorians, &amp;c.</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>161</cell>
+                        <cell>Crows Catalog. of the Engliſh Writers on the Scriptures</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>162</cell>
+                        <cell>Rogers his Renunciation of Popiſh Doctrines</cell>
+                        <cell>1680</cell>
+                     </row>
+                     <row>
+                        <cell>163</cell>
+                        <cell>Gregories Anat my of Chriſtian Melancholy</cell>
+                        <cell>1648</cell>
+                     </row>
+                     <row>
+                        <cell>164</cell>
+                        <cell>Dr. Barrows duty and reward of bounty</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>165</cell>
+                        <cell>Dr. Patricks menſa myſtica</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <row>
+                        <cell>166</cell>
+                        <cell>Aſhwel on the Creed</cell>
+                        <cell>1653</cell>
+                     </row>
+                     <row>
+                        <cell>167</cell>
+                        <cell>Dr. Owens defence of the Admiadverſions on Fiat Lux</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>168</cell>
+                        <cell>Dr. Saunderſons Caſes of Conſcience</cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>169</cell>
+                        <cell>Mr. Walls none but Chriſt</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>170</cell>
+                        <cell>Melius inquirendum</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>171</cell>
+                        <cell>Lightfoots Miſcellanies</cell>
+                        <cell>1629</cell>
+                     </row>
+                     <row>
+                        <cell>172</cell>
+                        <cell>Auguſtines confeſſions tranſlated by Dr. Watts</cell>
+                        <cell>1650</cell>
+                     </row>
+                     <row>
+                        <cell>173</cell>
+                        <cell>Whiſton of Infant Baptiſm 4 parts compleat</cell>
+                        <cell>1676</cell>
+                     </row>
+                     <row>
+                        <cell>174</cell>
+                        <cell>Boats Irelands natural hiſtory</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>175</cell>
+                        <cell>The Life and death of A. Bp Uſher, by Dr. Bernard</cell>
+                        <cell>1656</cell>
+                     </row>
+                     <row>
+                        <cell>176</cell>
+                        <cell>—of Vavaſour Powel with Elegies and Epitaphs</cell>
+                        <cell>1671</cell>
+                     </row>
+                     <row>
+                        <cell>177</cell>
+                        <cell>—of Pope Joan</cell>
+                        <cell>1675</cell>
+                     </row>
+                     <row>
+                        <cell>178</cell>
+                        <cell>The Hiſtory of the life and actions of St. Athanaſius</cell>
+                        <cell>1664</cell>
+                     </row>
+                     <row>
+                        <cell>179</cell>
+                        <cell>Philpot of the Original and growth of Herauldry</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>180</cell>
+                        <cell>Blounts dict. enterpreting all hard words</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>181</cell>
+                        <cell>Lovels compleat hiſt. of Animals, and Minerals</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>182</cell>
+                        <cell>The Royal Charters of the City of Lond.</cell>
+                        <cell>1680</cell>
+                     </row>
+                     <row>
+                        <cell>183</cell>
+                        <cell>Harringtons Art of Lawgiving in 3 books</cell>
+                        <cell>1659</cell>
+                     </row>
+                     <row>
+                        <cell>184</cell>
+                        <cell>Whartons Art of Divining</cell>
+                        <cell>1652</cell>
+                     </row>
+                     <row>
+                        <cell>185</cell>
+                        <cell>A diſcourſe concerning generation out of Levinus Lemnius</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>186</cell>
+                        <cell>Leyburns Arithmetick, in 3 parts</cell>
+                        <cell>1657</cell>
+                     </row>
+                     <row>
+                        <cell>187</cell>
+                        <cell>Rebels no Saints, or a Collection of Speeches, &amp;c.</cell>
+                        <cell>1661</cell>
+                     </row>
+                     <row>
+                        <cell>188</cell>
+                        <cell>Dr. Wilkins world in the Moon both parts compleat</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>189</cell>
+                        <cell>VVadſworths European Mercury</cell>
+                        <cell>1641</cell>
+                     </row>
+                     <row>
+                        <cell>200</cell>
+                        <cell>Herles wiſdoms tripos compleat</cell>
+                        <cell>1655</cell>
+                     </row>
+                     <row>
+                        <cell>201</cell>
+                        <cell>Dr. Manton on the Lords Prayer</cell>
+                        <cell>1684</cell>
+                     </row>
+                     <row>
+                        <cell>202</cell>
+                        <cell>Shephard of ſincerity and hypocriſie, with Bp. Barlows tract of Grace</cell>
+                        <cell>
+                           <hi>Oxf.</hi> 1658</cell>
+                     </row>
+                     <row>
+                        <cell>203</cell>
+                        <cell>Mr. Jo Sheffields Son of Righteouſneſs</cell>
+                        <cell>1654</cell>
+                     </row>
+                     <row>
+                        <cell>204</cell>
+                        <cell>Mr. G. Swinnocks treatiſe of the incomparableneſs of God</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>205</cell>
+                        <cell>Dr. Jo. Owens Vindication of the Trinity</cell>
+                        <cell>1669</cell>
+                     </row>
+                     <row>
+                        <cell>206</cell>
+                        <cell>Mr. Joſeph Alleins life and death with his letters</cell>
+                        <cell>167<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <pb n="16" facs="tcp:42967:11"/>
+                     <row>
+                        <cell>207</cell>
+                        <cell>Mr. Baxters ſafe Religion</cell>
+                        <cell>
+                           <hi>Lond.</hi> 1657</cell>
+                     </row>
+                     <row>
+                        <cell>208</cell>
+                        <cell>—true and eaſie ſatisfaction, which is the true Religion</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>209</cell>
+                        <cell>Dr. Sam. Rolls Londons Reſurrection</cell>
+                        <cell>1668</cell>
+                     </row>
+                     <row>
+                        <cell>210</cell>
+                        <cell>Mr. Th. Vincent of Chriſts certain and ſuddain Appearance to judgment</cell>
+                        <cell>1667</cell>
+                     </row>
+                     <row>
+                        <cell>211</cell>
+                        <cell>Dr. Sibbs Fountain ſealed</cell>
+                        <cell>1637</cell>
+                     </row>
+                     <row>
+                        <cell>212</cell>
+                        <cell>Mr. Jo. How of Gods preſcience</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>213</cell>
+                        <cell>—The vanity of this mortal Life</cell>
+                        <cell>1672</cell>
+                     </row>
+                     <row>
+                        <cell>214</cell>
+                        <cell>Mr. Chriſt. Neſſe his Chriſtians walk</cell>
+                        <cell>1678</cell>
+                     </row>
+                     <row>
+                        <cell>215</cell>
+                        <cell>—of the perſon and period of Antichriſt</cell>
+                        <cell>1679</cell>
+                     </row>
+                     <row>
+                        <cell>216</cell>
+                        <cell>An Abridgement of Dr. Preſtons works</cell>
+                        <cell>1658</cell>
+                     </row>
+                     <row>
+                        <cell>217</cell>
+                        <cell>The triumph of Mercy in the Chariot of praiſe</cell>
+                        <cell>1677</cell>
+                     </row>
+                     <row>
+                        <cell>218</cell>
+                        <cell>Contemplations on mortality</cell>
+                        <cell>1669</cell>
+                     </row>
+                     <row>
+                        <cell>219</cell>
+                        <cell>Dr. Jo. Owens vindic. of his diſcourſe of Communion with God</cell>
+                        <cell>1674</cell>
+                     </row>
+                     <row>
+                        <cell>220</cell>
+                        <cell>A ſober anſwer to the friendly debate</cell>
+                        <cell>1669</cell>
+                     </row>
+                     <row>
+                        <cell>221</cell>
+                        <cell>—18 Sermons of Mr. Will. VVhitaker, with Dr. Anneſlys fun. Sermons</cell>
+                        <cell>1674</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="type_of_book">
+               <head>
+                  <hi>Folio's</hi> Omitted.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>DIodati his Annotations on the whole Bible with the Analyſis the fourth Edition</cell>
+                        <cell>
+                           <hi>London</hi> 1664</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>A Relation of the Conference between Arch Biſhop Laud and Fiſher</cell>
+                        <cell>1639</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>Dr. Gells Remains 2 volumes bound together</cell>
+                        <cell>1670</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>Of the tragical Maſſacres of France under 5 Kings</cell>
+                        <cell>1598</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>Dr. Sibbs the Saints Cordials, large paper</cell>
+                        <cell>1640</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>Foulis his Hiſtory of Romiſh treaſons and uſurpations</cell>
+                        <cell>1681</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>The book of Homilies both parts</cell>
+                        <cell>1623</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>Sir R. Bakers Chronicle of the Kings of <hi>England</hi> with the continuation</cell>
+                        <cell>1665</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>Sir Kenelm Digby's 2 treatiſes (large paper) of bodies, and of the ſoul, &amp;c.</cell>
+                        <cell>1644</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>Dr. Willets ſixfold Commentary on the Romans</cell>
+                        <cell>
+                           <hi>Camb.</hi> 1620</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>Leigh's Syſtem or body of Divinity</cell>
+                        <cell>
+                           <hi>London</hi> 1654</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>Mr. Th. Cartwrights confutation of the Rhemiſts tranſlation, gloſſes and An<g ref="char:EOLhyphen"/>notations on the New Teſtament</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>Mr. Th. Wilſons Commentary on the Epiſtle to the Romans</cell>
+                        <cell>1627</cell>
+                     </row>
+                  </table>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:42967:11"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
